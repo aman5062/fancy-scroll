@@ -61,5 +61,5 @@ $(".container").fancy_scroll({
 Now, your container div will finally have a bounce overflow effect just like your websites. This can be apply to as many divs and/or body as you like. Pretty neat huh? I hope you will find this plugin useful.
 
 ## Other Resources
-- Tutorial (Coming Soon)
+- Tutorial (Coming very Soon)
 - [CSS Easing generator by Matthew Lein](http://matthewlein.com/ceaser/)
